@@ -1,0 +1,6 @@
+[UTMenu.SlotWindow]
+Saves[0]=0\0\6\13\6\9\6\9\6\6\6\3\M\0\kb-Novice
+Saves[1]=1\0\6\13\6\9\6\9\6\6\6\3\M\0\kb-Average
+Saves[2]=2\0\6\13\6\9\6\9\6\6\6\3\M\0\kb-Experienced
+Saves[3]=3\0\6\13\6\9\6\9\6\6\6\3\M\0\kb-Skilled
+Saves[4]=4\0\6\13\6\9\6\9\6\6\6\3\M\0\kb-Adept
